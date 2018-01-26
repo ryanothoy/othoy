@@ -250,8 +250,8 @@ mid5 = kr5.getProfile().mid
 
 Bots=[mid,mid1,mid2,mid3,mid4,mid5]
 induk=[mid]
-owner=["uacdbc0df971bbda9e5ee6f992ec74088"]
-admin=["uacdbc0df971bbda9e5ee6f992ec74088","ubd3c3fa2c0128918d5b484caa42f9fee","u231c762d7180c2bcb0ac247f436e91ee","ubcce0f23f428d75703fb33ee06c083b6","u742a5d1adc64bc9be7d19782cc939f52","u78006b2ffd1cc34b9c3e63e957de6331","uc6a7fbdf2d655ff57524301d8b6bec38",mid,mid1,mid2,mid3,mid4,mid5]
+owner=["uacdbc0df971bbda9e5ee6f992ec74088","u59c87aa937c865894074cd9da1f8550c"]
+admin=["uacdbc0df971bbda9e5ee6f992ec74088","u59c87aa937c865894074cd9da1f8550c","ubd3c3fa2c0128918d5b484caa42f9fee","u231c762d7180c2bcb0ac247f436e91ee","ubcce0f23f428d75703fb33ee06c083b6","u742a5d1adc64bc9be7d19782cc939f52","u78006b2ffd1cc34b9c3e63e957de6331","uc6a7fbdf2d655ff57524301d8b6bec38",mid,mid1,mid2,mid3,mid4,mid5]
 
 wait = {
     'likeOn':False,
