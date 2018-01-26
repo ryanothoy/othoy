@@ -19,32 +19,32 @@ except ImportError:
 
 kr = DNA.LINE()
 #kr.login(qr=True)
-kr.login(token='EpYMyjbtx7mPucg0kKLc.wCH6QtFizyLaDm2DOFHvda.NYZdakMJpVZSpaUazu0IA5njt5tOPkDIEe6HnnchMmQ=')#r1
+kr.login(token='EpzYzfJBJVxYgaNrIxce.iaj5rBy2CDX8Y6rN8F/EpG.rHSHmAqPhkYY1g+Ll+vIcybZMHuwtDVmdiCggpI25eY=')#r1
 kr.loginResult()
 
 kr1 = DNA.LINE()
 #kr1.login(qr=True)
-kr1.login(token='EobsEuUMEJ3ppOUZPVya.fW/HXK/P6ucyNSYHd42E2G.UkdRGdqbj5BODkHLdclg1HDg5rBVF0mIxEJdztSdWfY=')#r2
+kr1.login(token='Ep7BsJmaawVCoTSHKb3e.ymOqrlHXuDIOfik5uNUKJG.1giUoBySMzAb4U2B0HzxgF1PhDymNR3q4ltPKEMtDdc=')#r2
 kr1.loginResult()
 
 kr2 = DNA.LINE()
 #kr2.login(qr=True)
-kr2.login(token='EoAYkLGZcWqBnSnFslm3.GQe1F0FLgkB3suGK5WtUCW.yIt3Hqsd5CBhTXinH6t4CdIVtVTq7cCnajyOm+OkxBI=')#r3
+kr2.login(token='EptWPqJV377kZm76GC80.TxaOJGTAcNX9J2tCuubqGa.X229Vc+978VAjrDwcdx+wCrp9f6djpqF7hi9P9VZNLE=')#r3
 kr2.loginResult()
 
 kr3 = DNA.LINE()
 #kr3.login(qr=True)
-kr3.login(token='Eoh05Yzg4PTKQauz3ej1./PGYhVVe4uDle5Q6kp48qq.Z/e0jqBRfcfwIUTeElgDqGU62XFnangGFoP2MXqk5JA=')#r4
+kr3.login(token='EpbdthutFOMOG53x6EF6.iQEbXAix8l0QRJmjQ60XjG.ob66Q8qBtPAg/W0AE/APLhyrLaTChbBlO2g8YNwqNvA=')#r4
 kr3.loginResult()
 
 kr4 = DNA.LINE()
 #kr4.login(qr=True)
-kr4.login(token='EoqHeaxl0qbnVdJ4yDX3.fOtS1/ZYrVfyY2wr74a3uW.RVgipj3nJRLJKHgUxneQLB2NihRuwrQL688/0f1FoW4=')#r5
+kr4.login(token='EprgZXfeMDJ7Yt4XmKda.tkrrRjIEnFY1zMpL5+EDAG.amW3Yh6gocYBVCTbtV9S4a286tSzsaRa87c1wGwQSWk=')#r5
 kr4.loginResult()
 
 kr5 = DNA.LINE()
 #kr5.login(qr=True)
-kr5.login(token='EoYjssMXXj1TWDei3xyd.UC8K+GXOvK/3A1WWSKmQRq.MfyHFoBbLU4NIgN90MEbuZj6ylIkE6mvdBlzP99zl6I=')#r6
+kr5.login(token='Epw51JOa7kIOqptD5PO8.oEoyC5clFmhVGLxA2lu12a.mZi8F68CrE/X288X/1OArTnceI3z26ZPWC9vEH+3CMs=')#r6
 kr5.loginResult()
 
 print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ DNA BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
